@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  margin: auto;
+}
+
+.App-header {
+  background-color: white;
+  min-height: 10vh;
+  display: flex;
+  /* flex-direction: column; */
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #282c34;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+svg{
+  overflow: visible;
+  margin-bottom: 50px;
+}
